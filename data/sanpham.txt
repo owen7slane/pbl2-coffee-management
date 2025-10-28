@@ -1,0 +1,3 @@
+SP001|Ca phe den|DM001|35000|1
+SP002|Tra sua matcha|DM002|42000|1
+

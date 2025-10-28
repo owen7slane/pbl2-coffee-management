@@ -1,0 +1,3 @@
+KH001|Tran Thi B|Vang|0912345678|tran.b@example.com
+KH002|Pham Van D|Bac|0945678901|pham.d@example.com
+

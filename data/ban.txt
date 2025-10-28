@@ -1,0 +1,3 @@
+B001|Ban so 1|4|Trong
+B002|Ban so 2|6|Da dat truoc
+
